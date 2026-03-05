@@ -33,4 +33,4 @@ g++ -std=c++17 -Wall -Wextra -g -fsanitize=address -o problem3 problem3.cpp
 - Limitasi Problem 3: fungsi binarySearch hanya bekerja dengan benar pada array yang sudah terurut. Jika digunakan pada array yang tidak terurut, hasil pencarian tidak dapat dijamin benar.
 
 ## Time Spent
-Sekitar 10–12 jam untuk analisis, implementasi kode, testing, dan penulisan jawaban.
+Sekitar 10-12 jam untuk analisis, implementasi kode, testing, dan penulisan jawaban.
